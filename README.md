@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Allan, a software developer with a passion to tinker with anything tech related. Lately, I've been primarily using **VueJS, React and Typescript.**
+
+- 🔭 I’m currently working on [magkano-toll](https://magkano-toll.vercel.app/) and updating my NeoVim setup. 
+- 🌱 I’m currently learning CSS in depth, NextJS, and Python!
+- 📫 How to reach me: you can send me an email on amcluartes@gmail.com
+- ⚡ Fun fact: I wrote this on a [Corne Keyboard](https://github.com/foostan/crkbd) which I flashed with my personal keyboard layout using QMK and C. I a keyboard geek 🤓
+
+If you're interested to work with me, send me an email and let's finish that MVP! 😄
 <!--
 **lanluartes/lanluartes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
